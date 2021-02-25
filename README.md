@@ -7,6 +7,9 @@ Some urls about the world of mining.
 以太坊ETH挖矿收益计算器
 >>http://www.wabi.com/mining-income/ethereum-calculator.html
 
+以太坊ETH挖矿收益计算器 | wk588.com
+>>https://wk588.com/jsq/ethereum
+
 2021显卡算力排行，显卡性能天梯图，以太坊ETH挖矿显卡算力  
 （3060   43MH     43 * 6 * 10=2580MH        90w * 6 * 10 * 1.2=6480w     4000元 * 6 * 10 = 24万    全新闲鱼价5200/块）  
 >>https://blog.csdn.net/yichen109/article/details/113807182
