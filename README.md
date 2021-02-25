@@ -7,8 +7,8 @@ Some urls about the world of mining.
 以太坊ETH挖矿收益计算器
 >>http://www.wabi.com/mining-income/ethereum-calculator.html
 
-2021显卡算力排行，显卡性能天梯图，以太坊ETH挖矿显卡算力
-（3060   43MH  43*6*10=2580MH     90w*6*10*1.2=6480w）
+2021显卡算力排行，显卡性能天梯图，以太坊ETH挖矿显卡算力               \n
+（3060   43MH  43 * 6 * 10=2580MH     90w * 6 * 10 * 1.2=6480w）
 https://blog.csdn.net/yichen109/article/details/113807182
 
 32.4 Mh/s with 1070 | Ethereum Community Form
